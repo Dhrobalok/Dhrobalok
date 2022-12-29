@@ -1,0 +1,1 @@
+<a href="{{url('/suparemail')}}">Email Verify</a>

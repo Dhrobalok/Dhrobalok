@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'Gentium Basic';
+    font-style: normal;
+    font-weight: normal;
+        src:  url('../fonts/GenBasR.woff') format('woff');
+    }
+    
+    
+    @font-face {
+    font-family: 'Gentium Basic Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Gentium Basic Italic'), url('../fonts/GenBasI.woff') format('woff');
+    }
+    
+    
+    @font-face {
+    font-family: 'Gentium Basic Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Gentium Basic Bold'), url('../fonts/GenBasB.woff') format('woff');
+    }
+    
+    
+    @font-face {
+    font-family: 'Gentium Basic Bold Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Gentium Basic Bold Italic'), url('../fonts/GenBasBI.woff') format('woff');
+    }
+    
+    
+    @font-face {
+    font-family: 'Gentium Book Basic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Gentium Book Basic'), url('../fonts/GenBkBasR.woff') format('woff');
+    }
+    
+    
+    @font-face {
+    font-family: 'Gentium Book Basic Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Gentium Book Basic Italic'), url('../fonts/GenBkBasI.woff') format('woff');
+    }
+    
+    
+    @font-face {
+    font-family: 'Gentium Book Basic Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Gentium Book Basic Bold'), url('../fonts/GenBkBasB.woff') format('woff');
+    }
+    
+    
+    @font-face {
+    font-family: 'Gentium Book Basic Bold Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Gentium Book Basic Bold Italic'), url('../fonts/GenBkBasBI.woff') format('woff');
+    }
